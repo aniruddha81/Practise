@@ -1,7 +1,13 @@
-const accountId = 144553
-let accountEmail = "ar.roy564@gmail.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
+let score = "33"
+console.log(typeof score);
+console.log(typeof(score));
 
-console.table([accountId,accountEmail,accountPassword,accountCity]);
+let valueInNumber = Number(score)
+
+console.log(valueInNumber);
+console.log(typeof(valueInNumber));
+
+
+
+
 
